@@ -1,0 +1,1 @@
+{"version":1,"name":"T","type":"c","entry":"main.c","build":"mkdir -p bin && cc main.c -o bin/app","run":"./bin/app","clean":"rm -rf bin/app"}
