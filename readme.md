@@ -16,3 +16,4 @@ print("You can preview fenced code too")
 | Ctrl/Cmd+P | Command palette |
 | Ctrl/Cmd+G | Go to line |
 ----
+----
